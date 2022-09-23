@@ -1,7 +1,6 @@
 [![syeghiaz's 42 stats](https://badge42.vercel.app/api/v2/cl8e6docw00350hmkit55i63b/stats?cursusId=21&coalitionId=266)](https://github.com/JaeSeoKim/badge42)
 
 <H2>Exam Rank 04 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8e6docw00350hmkit55i63b/project/2792779" alt="syeghiaz's 42 Exam Rank 04 Score" /></a>
-<H2>
 
 [![syeghiaz's 42 minishell Score](https://badge42.vercel.app/api/v2/cl8e6docw00350hmkit55i63b/project/2648947)](https://github.com/JaeSeoKim/badge42)
 
