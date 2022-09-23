@@ -24,3 +24,4 @@
 
 [![syeghiaz's 42 Libft Score](https://badge42.vercel.app/api/v2/cl8e6docw00350hmkit55i63b/project/2527061)](https://github.com/JaeSeoKim/badge42)
 
+https://badge42.vercel.app/api/v2/cl8e6docw00350hmkit55i63b/project/2648947
